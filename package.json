@@ -1,0 +1,19 @@
+{
+  "name": "generate-userscript-header",
+  "version": "1.0.0",
+  "description": "Generates a userscript header string to append to your scripts.",
+    "bugs": "https://github.com/cletusc/generate-userscript-header/issues",
+  "author": "Ryan Chatham <ryan.b.chatham@gmail.com> (https://github.com/cletusc)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cletusc/generate-userscript-header.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "userscript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "hogan.js": "^3.0.2"
+  }
+}
